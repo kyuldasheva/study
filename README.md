@@ -1,3 +1,7 @@
 # study
 # this repo is for study.
-# hello world
+# hello world 
+hello
+hello
+today is sunday
+
